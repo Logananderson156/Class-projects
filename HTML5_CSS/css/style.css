@@ -56,6 +56,18 @@ img{
     border-radius: 20px;
 }
 
+main h3{
+    color: #A67D32;
+    text-align: center;
+}
+
+img{
+    display: block;
+    margin: 20px auto;
+    width: 600px;
+    border-radius: 20px;
+}
+
 footer{
     padding: 40px 0;
     text-align: center;
