@@ -122,6 +122,8 @@ iframe {
     margin: 20px auto;
     border-radius: 10px;
     border: 2px solid #F09B42;
+    width: 65%;
+    height: 450px;
 }
 
 .contact_content{
