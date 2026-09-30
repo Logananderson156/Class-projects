@@ -5,4 +5,5 @@
     <li><a href="HTML5_CSS/index.html" target="_blank">Development of the greatest movie  franchise</a></li>
     <li><a href="adv_css/index.html" target="_blank">Advanced CSS</a></li>
     <li><a href="responsive/index.html" target="_blank">Responsive Style</a></li>
+    <li><a href="Final_project/index.html" target="_blank">Final Project</a></li>
 </ul>
